@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Add Power Suggestion Device",
+                "description": "Configure a home appliance for power analysis and suggestions.",
+                "data": {
+                    "device_name": "Device Name",
+                    "power_entity": "Power Consumption Entity",
+                    "ai_task_entity": "AI Task Entity",
+                    "smart_meter_entity": "Smart Meter (Grid) Entity",
+                    "solar_power_entity": "Solar Production Entity",
+                    "solar_forecast_entity": "Solar Forecast Entity"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "domain": "power_suggestion",
+  "name": "Power Suggestion",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jeffrey/ha-powersuggestion",
+  "description": "Integration to analyze appliance power usage and suggest optimal run times.",
+  "dependencies": [
+    "recorder"
+  ],
+  "codeowners": [
+    "@jeffrey"
+  ],
+  "requirements": [],
+  "iot_class": "local_polling"
+}
